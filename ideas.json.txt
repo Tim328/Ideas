@@ -1,20 +1,13 @@
 [
   {
     "id": 1,
-    "topic": "SaaS",
-    "story": "Ein Gründer hat mit einer SaaS-App gestartet.",
+    "title": "AI für Studenten",
+    "topic": "Education",
+    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
     "timeEstimate": "6 Monate",
     "riskLevel": "Medium",
-    "entryCost": 5000,
+    "entryCost": 3000,
     "stars": 4
-  },
-  {
-    "id": 2,
-    "topic": "Education",
-    "story": "Eine Studentin entwickelte eine Lernplattform.",
-    "timeEstimate": "3 Monate",
-    "riskLevel": "Low",
-    "entryCost": 1000,
-    "stars": 5
   }
+
 ]
