@@ -9,5 +9,16 @@
     "entryCost": 3000,
     "stars": 4
   }
+  {
+    "id": 2,
+    "title": "Sustainable",
+    "topic": "Sustainability",
+    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
+    "timeEstimate": "3 Monate",
+    "riskLevel": "Medium",
+    "entryCost": 1500,
+    "stars": 4
+  }
 
 ]
+
