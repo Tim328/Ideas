@@ -9,18 +9,9 @@
     "entryCost": 3000,
     "stars": 4
   }
-  {
-    "id": 2,
-    "title": "Sustainable",
-    "topic": "Sustainability",
-    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
-    "timeEstimate": "3 Monate",
-    "riskLevel": "Medium",
-    "entryCost": 1500,
-    "stars": 4
-  }
+
 {
-  "id": 3,
+  "id": 2,
   "title": "Fitness-Coach App",
   "topic": "Health & Fitness",
   "story": "Ein kleines Team entwickelte eine mobile App, die individuelle Trainingspläne erstellt und den Fortschritt der Nutzer mit KI-basiertem Feedback begleitet.",
@@ -31,5 +22,6 @@
 }
 
 ]
+
 
 
