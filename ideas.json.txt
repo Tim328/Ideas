@@ -1,30 +1,32 @@
 [
   {
     "id": 1,
-    "title": "AI für Studenten",
-    "topic": "Education",
-    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
-    "timeEstimate": "6 Monate",
-    "riskLevel": "Medium",
-    "entryCost": 3000,
-    "stars": 4
+    "topic": "SaaS",
+    "title": "From Dorm to Dashboard",
+    "story": "In meiner Studentenbude baute ich ein Tool zur Organisation von Arbeitsgruppen. Ohne Budget, mit purem Ehrgeiz. Heute nutzen Teams weltweit mein Tool, um ihre Projekte zu managen."
   },
   {
     "id": 2,
-    "title": "AI füqwr Studenten",
-    "topic": "Finance",
-    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
-    "timeEstimate": "6 Monate",
-    "riskLevel": "Medium",
-    "entryCost": 3000,
-    "stars": 4
+    "topic": "E-Commerce",
+    "title": "Handgemacht aus der Garage",
+    "story": "Mit nur 300 € Startkapital begann ich, handgemachte Accessoires aus der Garage zu verkaufen. Ein Jahr später war ich auf Märkten ausverkauft, und mein Online-Shop wurde zum Community-Liebling."
+  },
+  {
+    "id": 3,
+    "topic": "AI & Data",
+    "title": "KI gegen Chaos",
+    "story": "Als Datenanalyst sah ich, wie viele kleine Firmen in Excel-Chaos versinken. Also entwickelte ich eine einfache KI-Lösung, die das Chaos bändigt. Heute digitalisiert mein Tool hunderte KMUs."
+  },
+  {
+    "id": 4,
+    "topic": "Health & Fitness",
+    "title": "Meine Marathon-Mission",
+    "story": "Nach meinem dritten gescheiterten Marathon war ich frustriert. Ich bastelte an einer Fitness-App, die mich motivierte – und heute hilft sie tausenden Läufern, ihr Ziel zu erreichen."
+  },
+  {
+    "id": 5,
+    "topic": "Education",
+    "title": "Lernen mit Herz",
+    "story": "In meinem Ferienjob unterrichtete ich Flüchtlingskinder. Damals realisierte ich: Bildung braucht Nähe. Deshalb gründete ich eine Lernplattform, die individuelle Betreuung in den Fokus stellt."
   }
-
-
 ]
-
-
-
-
-
-
