@@ -8,20 +8,9 @@
     "riskLevel": "Medium",
     "entryCost": 3000,
     "stars": 4
-  },
-
-  {
-    "id": 2,
-    "title": "Economy",
-    "topic": "Finance",
-    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
-    "timeEstimate": "3 Monate",
-    "riskLevel": "Medium",
-    "entryCost": 5000,
-    "stars": 4
-  },
-
+  }
 
 ]
+
 
 
