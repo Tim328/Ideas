@@ -8,10 +8,21 @@
     "riskLevel": "Medium",
     "entryCost": 3000,
     "stars": 4
+  },
+  {
+    "id": 2,
+    "title": "AI füqwr Studenten",
+    "topic": "Finance",
+    "story": "Ein Student entwickelte eine App, die automatisch Zusammenfassungen von Vorlesungen erstellt...",
+    "timeEstimate": "6 Monate",
+    "riskLevel": "Medium",
+    "entryCost": 3000,
+    "stars": 4
   }
 
 
 ]
+
 
 
 
