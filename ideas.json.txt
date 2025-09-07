@@ -8,7 +8,7 @@
     "riskLevel": "Medium",
     "entryCost": 3000,
     "stars": 4
-  }
+  },
 {
   "id": 2,
   "title": "Fitness-Coach App",
@@ -23,6 +23,7 @@
 
 
 ]
+
 
 
 
