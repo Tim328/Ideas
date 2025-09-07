@@ -10,18 +10,10 @@
     "stars": 4
   }
 
-{
-  "id": 2,
-  "title": "Fitness-Coach App",
-  "topic": "Health & Fitness",
-  "story": "Ein kleines Team entwickelte eine mobile App, die individuelle Trainingspläne erstellt und den Fortschritt der Nutzer mit KI-basiertem Feedback begleitet.",
-  "timeEstimate": "4 Monate",
-  "riskLevel": "Low",
-  "entryCost": 2000,
-  "stars": 5
-}
+
 
 ]
+
 
 
 
